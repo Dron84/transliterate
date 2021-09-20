@@ -1,0 +1,20 @@
+{
+  "name": "transliterate",
+  "version": "1.0.0",
+  "description": "Транслит с русcкого на английский и обратно",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "Транслит",
+    "с",
+    "русcкого",
+    "на",
+    "английский",
+    "и",
+    "обратно"
+  ],
+  "author": "dron84@gmail.com",
+  "license": "ISC"
+}
